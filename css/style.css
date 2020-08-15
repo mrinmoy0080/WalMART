@@ -1,0 +1,23 @@
+body{
+    color: white;
+}
+.navbar{
+    background-color: #105fe7;
+    opacity: 0.8;
+    border-bottom: 3px solid yellow;
+}
+.home{
+    background-image: url(../img/ss.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 794px;
+}
+
+.build{
+    padding-top: 140px;
+    padding-bottom: 50px;
+}
+i{
+    margin-right: 25px;
+}
